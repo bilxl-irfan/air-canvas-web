@@ -1,0 +1,6 @@
+# Create .gitignore
+echo "node_modules/
+dist/
+.env
+.DS_Store
+*.log" > .gitignore
