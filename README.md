@@ -53,14 +53,14 @@
 
 ### Local Development
 Clone the repository
-git clone https://github.com/YOUR_USERNAME/air-canvas-web.git
-cd air-canvas-web
+- git clone https://github.com/YOUR_USERNAME/air-canvas-web.git
+- cd air-canvas-web
 
 Install dependencies
-npm install
+- npm install
 
 Start development server
-npm run dev
+- npm run dev
 
 Open http://localhost:5173 in your browser
 
