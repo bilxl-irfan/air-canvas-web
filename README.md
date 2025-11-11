@@ -8,8 +8,6 @@
 
 > **Draw in the air with your hands. No pen needed.** A real-time computer vision drawing application powered by MediaPipe hand tracking and React.
 
-![Air Canvas Demo](https://via.placeholder.com/800x400?text=Air+Canvas+Demo+GIF)
-
 ## 🚀 Features
 
 - ✋ **Hand Gesture Control** - Draw using just your index finger
