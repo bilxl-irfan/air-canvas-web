@@ -53,7 +53,7 @@
 
 ### Local Development
 Clone the repository
-- git clone https://github.com/YOUR_USERNAME/air-canvas-web.git
+- git clone https://github.com/bilxl-irfan/air-canvas-web.git
 - cd air-canvas-web
 
 Install dependencies
