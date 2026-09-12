@@ -147,10 +147,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Bilal Irfan - [Portfolio](https://bilxl-irfan.github.io/)
+Bilal Irfan - [Portfolio](https://bilalirfan.app/)
 
 Project Link: [https://github.com/bilxl-irfan/air-canvas-web](https://github.com/bilxl-irfan/air-canvas-web)
 
 ---
-
-Made with ❤️ and ✨ by Bilal
